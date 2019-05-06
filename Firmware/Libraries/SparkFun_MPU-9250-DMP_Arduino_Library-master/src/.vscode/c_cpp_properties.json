@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\\\Users\\\\Graham\\\\AppData\\\\Local\\\\Arduino15\\\\packages\\\\SparkFun\\\\hardware\\\\samd\\\\1.5.4\\\\**"
+            ],
+            "forcedInclude": [
+                "C:\\\\Users\\\\Graham\\\\AppData\\\\Local\\\\Arduino15\\\\packages\\\\SparkFun\\\\hardware\\\\samd\\\\1.5.4\\\\cores\\\\arduino\\\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
